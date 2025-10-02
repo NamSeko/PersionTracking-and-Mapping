@@ -1,0 +1,6 @@
+max_age: 60
+track_buffer: 50
+match_thresh: 0.8
+proximity_thresh: 0.5
+max_cosine_distance: 0.2
+nn_budget: 100

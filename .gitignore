@@ -1,0 +1,10 @@
+/__pycache__
+/detection_module
+/person_detection
+/re_id
+/reid_module/data/
+/reid_module/__pycache__/
+/reid_module/create_data.ipynb
+/reid_module/data_process.ipynb
+reid_module/output_4c.avi
+

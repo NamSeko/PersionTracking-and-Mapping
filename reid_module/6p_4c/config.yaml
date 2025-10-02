@@ -1,0 +1,11 @@
+data_train: './6p_4c/train.csv'
+data_val: './6p_4c/val.csv'
+data_test: './6p_4c/test.csv'
+label_name: ['different', 'same']
+save_model_path: './6p_4c/models'
+checkpoint_path: './6p_4c/model_checkpoint'
+epochs: 100
+batch_size: 32
+learning_rate: 1e-4
+lr_patience: 5
+early_stopping_patience: 10
